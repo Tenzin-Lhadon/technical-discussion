@@ -9,7 +9,7 @@ This is a good example of my code: [my code](https://gist.github.com/Tenzin-Lhad
 ## Colab example
 
 ### jupyter notebook
-https://colab.research.google.com/drive/1WYqhbUJJM6C56cnvw8AHGEkn5VMqa52y?usp=sharing
+Example of jupyter notebook [jupyter notebook](https://colab.research.google.com/drive/1WYqhbUJJM6C56cnvw8AHGEkn5VMqa52y?usp=sharing)
 
 
 ### Image
